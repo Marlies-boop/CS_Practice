@@ -1,4 +1,6 @@
 *.vs
 *.csproj
 *.csproj.filter
+
+*\bin
 *\obj
